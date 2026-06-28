@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Kamalesh 👋
+# Hi there,<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=KAMALESH+VENKATRAMAN" alt="Typing Animation" /> </p>👋
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+.NET+Developer;Angular+%7C+SQL+%7C+Python;Cloud+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
