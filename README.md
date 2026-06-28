@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 # Hi there,<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=#F8F8FF&center=true&vCenter=true&width=700&lines=KAMALESH+VENKATRAMAN" alt="Typing Animation" /> </p>👋
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=F8F8FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Kamalesh+Venkatraman+👋" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=F8F8FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kamalesh+Venkatraman+%F0%9F%91%8B" />
 </p>
-
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+.NET+Developer;Angular+%7C+SQL+%7C+Python;Cloud+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
 <p align="center">
